@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 CVE-2025-47227 - ScriptCase Password Reset (Pre-Auth)
-Exploit: Reseta senha do admin do ScriptCase Production Environment sem autenticacao.
+Exploit: Resets the ScriptCase Production Environment admin password without authentication.
 
 Uso:
   python3 cve_2025_47227.py --target https://tar.get --password 'P@ssw0rd!' --captcha ABCD
